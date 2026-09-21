@@ -158,6 +158,4 @@ These limitations are documented within the portfolio where relevant.
 
 ## Target Role
 
-This portfolio demonstrates practical, self-directed testing work relevant to **Junior QA / Manual QA / SQA Tester** positions.
-
-It represents **portfolio-based practical testing experience**, rather than commercial QA employment experience.
+This portfolio demonstrates practical, self-directed testing work — including independently identifying and documenting real defects — relevant to **Junior QA / Manual QA / API Tester / QA Analyst / Software Tester positions**.

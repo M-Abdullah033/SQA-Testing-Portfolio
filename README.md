@@ -158,4 +158,4 @@ These limitations are documented within the portfolio where relevant.
 
 ## Target Role
 
-This portfolio demonstrates practical, self-directed testing work — including independently identifying and documenting real defects — relevant to **Junior QA / Manual QA / API Tester / QA Analyst / Software Tester positions**.
+This portfolio demonstrates practical, self-directed testing work — including independently identifying and documenting real defects — relevant to **Junior QA / Manual QA / API Tester / QA Analyst / Software Tester** positions.
